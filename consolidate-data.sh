@@ -2,7 +2,7 @@
 
 set -e
 
-target_version=1.2
+target_version=1.2.6
 installed_version=$(jenkins-top-submitters version | awk '{print $NF}')
 
 if [[ $(echo -e "$target_version\n$installed_version" | sort -V | head -n 1) != "$target_version" ]]; then
