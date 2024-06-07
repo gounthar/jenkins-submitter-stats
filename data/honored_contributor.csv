@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-06-06T07-37-07Z", "2024-05", "HokieGeek", "Andrés Pérez", "@HokieGeek", "https://github.com/HokieGeek", "https://avatars.githubusercontent.com/u/2411208?v=4", "2", "jenkinsci/nexus-platform-plugin jenkins-infra/helpdesk"
+"2024-06-07T07-37-43Z", "2024-05", "ctudor", "", "", "https://github.com/ctudor", "https://avatars.githubusercontent.com/u/25062412?v=4", "1", "jenkinsci/gerrit-trigger-plugin"
