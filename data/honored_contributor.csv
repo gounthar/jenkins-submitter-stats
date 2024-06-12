@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-06-11T07-38-24Z", "2024-05", "girishbalanagu", "Girish", "", "https://github.com/girishbalanagu", "https://avatars.githubusercontent.com/u/1073809?u=30bc82179e3406aa562527064927e1506d0a4d47&v=4", "1", "jenkins-docs/simple-java-maven-app"
+"2024-06-12T07-37-54Z", "2024-05", "halkeye", "Gavin Mogan", "", "https://github.com/halkeye", "https://avatars.githubusercontent.com/u/110087?u=90ee60920b0ef9b57960a21225ce3d7e89670d7c&v=4", "4", "jenkins-infra/repository-permissions-updater jenkins-infra/plugin-site"
