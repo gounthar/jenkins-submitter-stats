@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-07-03T07-39-58Z", "2024-06", "jkurek1", "Jacek Kurek", "Wizjack", "https://github.com/jkurek1", "https://avatars.githubusercontent.com/u/26352791?u=ab84231155a397332e78c8a03340d1c25dff7e99&v=4", "1", "jenkinsci/remote-file-plugin"
+"2024-07-04T07-38-03Z", "2024-06", "jglick", "Jesse Glick", "@cloudbees", "https://github.com/jglick", "https://avatars.githubusercontent.com/u/154109?v=4", "3", "jenkinsci/oic-auth-plugin jenkinsci/branch-api-plugin"
