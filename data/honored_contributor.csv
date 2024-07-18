@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-07-17T07-38-28Z", "2024-06", "maksudur-rahman-maruf", "Maksudur Rahman Maruf", "Dynamic Solution Innovators", "https://github.com/maksudur-rahman-maruf", "https://avatars.githubusercontent.com/u/43263023?u=dcf737fe26d4e8206cd34806087afd7c6f24fef2&v=4", "2", "jenkinsci/synopsys-security-scan-plugin"
+"2024-07-18T07-37-17Z", "2024-06", "janfaracik", "Jan Faracik", "", "https://github.com/janfaracik", "https://avatars.githubusercontent.com/u/43062514?u=85ef455173bdf2ea821a981268a46e13176e26be&v=4", "12", "jenkinsci/jenkins jenkinsci/workflow-cps-plugin jenkinsci/authorize-project-plugin jenkinsci/copyartifact-plugin"
