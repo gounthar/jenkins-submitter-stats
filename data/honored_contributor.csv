@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-07-18T07-37-17Z", "2024-06", "janfaracik", "Jan Faracik", "", "https://github.com/janfaracik", "https://avatars.githubusercontent.com/u/43062514?u=85ef455173bdf2ea821a981268a46e13176e26be&v=4", "12", "jenkinsci/jenkins jenkinsci/workflow-cps-plugin jenkinsci/authorize-project-plugin jenkinsci/copyartifact-plugin"
+"2024-07-19T07-37-14Z", "2024-06", "scz10", "", "", "https://github.com/scz10", "https://avatars.githubusercontent.com/u/20593322?v=4", "1", "jenkinsci/opentelemetry-plugin"
