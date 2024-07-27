@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-07-26T07-37-06Z", "2024-06", "sghill", "Steve Hill", "Netflix", "https://github.com/sghill", "https://avatars.githubusercontent.com/u/230004?u=f77c78a03aa707ad1de13d0dc1d5b46527abecce&v=4", "5", "jenkinsci/gradle-jpi-plugin jenkinsci/okhttp-api-plugin jenkinsci/naginator-plugin jenkinsci/gradle-plugin"
+"2024-07-27T07-36-47Z", "2024-06", "TimSVector", "Tim Schneider", "Vector North America", "https://github.com/TimSVector", "https://avatars.githubusercontent.com/u/18580931?u=87ab120a0c6230f0121e9cc12241457cc4c07041&v=4", "1", "jenkinsci/vectorcast-execution-plugin"
