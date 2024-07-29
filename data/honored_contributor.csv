@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-07-28T07-37-44Z", "2024-06", "froque", "Filipe Roque", "", "https://github.com/froque", "https://avatars.githubusercontent.com/u/8249379?v=4", "2", "jenkinsci/plugin-usage-plugin"
+"2024-07-29T07-37-12Z", "2024-06", "jmMeessen", "Jean-Marc MEESSEN", "Jenkins", "https://github.com/jmMeessen", "https://avatars.githubusercontent.com/u/6011261?v=4", "8", "jenkins-infra/jenkins-contribution-stats jenkins-infra/jenkins-contribution-aggregator jenkins-infra/jenkins-contribution-extractor"
