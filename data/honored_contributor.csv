@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-08-05T07-38-38Z", "2024-07", "GBwandersoncamargo", "Wanderson Camargo", "", "https://github.com/GBwandersoncamargo", "https://avatars.githubusercontent.com/u/89923889?u=e66c98d85954d98c40fbb71a13016c4dfbb06074&v=4", "2", "jenkinsci/configuration-as-code-plugin"
+"2024-08-06T07-37-18Z", "2024-07", "cyrille-leclerc", "Cyrille Le Clerc", "Grafana Labs", "https://github.com/cyrille-leclerc", "https://avatars.githubusercontent.com/u/459691?u=ac90fedd5a59913b8fa09c3e0d97dc8ad2c44df6&v=4", "15", "jenkinsci/opentelemetry-api-plugin jenkinsci/opentelemetry-plugin"
