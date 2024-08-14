@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-08-13T07-37-37Z", "2024-07", "Tyler-35", "", "", "https://github.com/Tyler-35", "https://avatars.githubusercontent.com/u/115563258?v=4", "1", "jenkinsci/azure-vm-agents-plugin"
+"2024-08-14T07-38-06Z", "2024-07", "pfeuffer", "René Pfeuffer", "Cloudogu GmbH", "https://github.com/pfeuffer", "https://avatars.githubusercontent.com/u/281097?u=534e1d80da51dbc0ff0d9186ebcbe1dc11432f22&v=4", "1", "jenkins-infra/repository-permissions-updater"
