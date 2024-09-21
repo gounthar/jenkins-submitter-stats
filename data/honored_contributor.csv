@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-09-20T07-37-30Z", "2024-08", "StefanSpieker", "Stefan Spieker", "@schaefflergroup ", "https://github.com/StefanSpieker", "https://avatars.githubusercontent.com/u/22742658?u=e2345316bbc7a402431cc1fc40015ed6de7524e4&v=4", "7", "jenkinsci/thin-backup-plugin jenkinsci/job-config-history-plugin jenkins-infra/repository-permissions-updater jenkinsci/copyartifact-plugin jenkinsci/jenkins-multijob-plugin jenkinsci/jenkins jenkins-infra/jenkins.io"
+"2024-09-21T07-37-44Z", "2024-08", "devmehtasynopsys", "Dev Mehta", "", "https://github.com/devmehtasynopsys", "https://avatars.githubusercontent.com/u/128397570?v=4", "1", "jenkinsci/synopsys-detect-plugin"
