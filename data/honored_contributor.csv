@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-09-21T07-37-44Z", "2024-08", "devmehtasynopsys", "Dev Mehta", "", "https://github.com/devmehtasynopsys", "https://avatars.githubusercontent.com/u/128397570?v=4", "1", "jenkinsci/synopsys-detect-plugin"
+"2024-09-22T07-37-35Z", "2024-08", "tilalx", "Tilo Alexander", "ASC Technologies AG", "https://github.com/tilalx", "https://avatars.githubusercontent.com/u/59500358?u=dcf04800967acef2dd40c716a22b8fcae1939dd6&v=4", "3", "jenkinsci/msbuild-plugin jenkins-infra/repository-permissions-updater"
