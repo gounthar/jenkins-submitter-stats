@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-09-22T07-37-35Z", "2024-08", "tilalx", "Tilo Alexander", "ASC Technologies AG", "https://github.com/tilalx", "https://avatars.githubusercontent.com/u/59500358?u=dcf04800967acef2dd40c716a22b8fcae1939dd6&v=4", "3", "jenkinsci/msbuild-plugin jenkins-infra/repository-permissions-updater"
+"2024-09-23T07-37-32Z", "2024-08", "cdelmonte-zg", "Christian Del Monte", "", "https://github.com/cdelmonte-zg", "https://avatars.githubusercontent.com/u/23214236?u=e9e5c6818095ef7d0f0381eaca6a178f985468d2&v=4", "1", "jenkinsci/bitbucket-push-and-pull-request-plugin"
