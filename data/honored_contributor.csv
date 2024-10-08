@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-10-07T07-37-42Z", "2024-09", "ErikRehmTT", "Erik Rehm", "@tracetronic ", "https://github.com/ErikRehmTT", "https://avatars.githubusercontent.com/u/112951632?u=20b1fd217cb416fca8cb4be79b9711349b25006d&v=4", "1", "jenkinsci/ecu-test-execution-plugin"
+"2024-10-08T07-37-47Z", "2024-09", "devaquasec", "", "", "https://github.com/devaquasec", "https://avatars.githubusercontent.com/u/174996388?v=4", "3", "jenkinsci/aqua-security-scanner-plugin"
