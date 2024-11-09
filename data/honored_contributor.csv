@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-11-08T07-37-07Z", "2024-10", "sboyd-synopsys", "", "", "https://github.com/sboyd-synopsys", "https://avatars.githubusercontent.com/u/77501044?v=4", "1", "jenkins-infra/update-center2"
+"2024-11-09T07-37-04Z", "2024-10", "dillense", "Bruno Dillenseger", "Orange SA", "https://github.com/dillense", "https://avatars.githubusercontent.com/u/10402268?u=645c41f443cd2dcf865ba395ed5d3a43ede907fb&v=4", "5", "jenkinsci/clif-performance-testing-plugin"
