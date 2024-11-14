@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-11-13T07-38-02Z", "2024-10", "uhafner", "Ullrich Hafner", "University of Applied Sciences Munich", "https://github.com/uhafner", "https://avatars.githubusercontent.com/u/503338?v=4", "7", "jenkinsci/coverage-model jenkinsci/echarts-api-plugin jenkins-infra/pipeline-library jenkinsci/warnings-ng-plugin"
+"2024-11-14T07-38-08Z", "2024-10", "schulmak", "", "", "https://github.com/schulmak", "https://avatars.githubusercontent.com/u/182752965?v=4", "2", "jenkinsci/azure-credentials-plugin jenkinsci/job-config-history-plugin"
