@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-11-26T07-39-35Z", "2024-10", "jahid1209", "", "@DSInnovators", "https://github.com/jahid1209", "https://avatars.githubusercontent.com/u/17758373?v=4", "3", "jenkinsci/black-duck-security-scan-plugin"
+"2024-11-27T07-39-54Z", "2024-10", "kuisathaverat", "Ivan Fernandez Calvo", "@elastic", "https://github.com/kuisathaverat", "https://avatars.githubusercontent.com/u/5400788?u=6e0a80ab6392df2a34fa0c0f576aa09b424817cd&v=4", "3", "jenkinsci/saml-plugin jenkinsci/trilead-api-plugin jenkinsci/ssh-agents-plugin"
