@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2024-12-04T07-39-53Z", "2024-11", "itaibh", "Itai Bar-Haim", "", "https://github.com/itaibh", "https://avatars.githubusercontent.com/u/140983?u=e2bb05cfcc40147563a9e54fd3608f8c5ae8cf51&v=4", "1", "jenkins-infra/update-center2"
+"2024-12-05T07-39-23Z", "2024-11", "bhavyalatha26", "", "", "https://github.com/bhavyalatha26", "https://avatars.githubusercontent.com/u/13586777?u=11f986f82c869a98eb4cccc28f12d9c4c3a95bf5&v=4", "4", "jenkinsci/cloudaeye-plugin jenkins-infra/repository-permissions-updater"
