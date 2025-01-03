@@ -1,2 +1,2 @@
 "RUN_DATE", "MONTH", "GH_HANDLE", "FULL_NAME", "COMPANY", "GH_HANDLE_URL", "GH_HANDLE_AVATAR", "NBR_PR", "REPOSITORIES"
-"2025-01-02T07-37-19Z", "2024-12", "kundanmani40", "", "", "https://github.com/kundanmani40", "https://avatars.githubusercontent.com/u/67183062?v=4", "2", "jenkins-docs/simple-java-maven-app"
+"2025-01-03T07-37-41Z", "2024-12", "viceice", "Michael Kriese", "@visualon ", "https://github.com/viceice", "https://avatars.githubusercontent.com/u/1798109?v=4", "5", "jenkinsci/scoring-load-balancer-plugin jenkinsci/gitea-checks-plugin jenkinsci/gravatar-plugin jenkinsci/additional-identities-plugin"
